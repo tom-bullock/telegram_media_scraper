@@ -247,5 +247,6 @@ def main():
 
     channel_scraper(channel_links, output_path_csv, output_path_media, client, date_limit)
 
-if __name__ == "__main__":
-    main()
+while True:
+    if __name__ == "__main__":
+        main()
